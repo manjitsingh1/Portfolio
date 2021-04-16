@@ -13,6 +13,19 @@ body {
   color: #272829;
 }
 
+.buttonLink:link, .buttonLink:visited {
+  background-color: #040b19;;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.buttonLink:hover, .buttonLink:active {
+  background-color:#040b14;;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
