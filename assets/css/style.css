@@ -12,6 +12,11 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
+div#project1 {
+    position: absolute;
+    left: 30%;
+    top: 26%;
+}
 
 .buttonLink:link, .buttonLink:visited {
   background-color: #040b19;;
