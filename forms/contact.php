@@ -26,7 +26,7 @@
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   
   $contact->smtp = array(
-    'host' => 'gmail.com',
+    'host' => 'www.gmail.com',
     'username' => 'manjit7898@gmail.com',
     'password' => 'manjit1711',
     'port' => '587'
